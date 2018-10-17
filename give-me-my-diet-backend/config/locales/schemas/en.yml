@@ -1,0 +1,12 @@
+en:
+  errors:
+    uuid?: "this is not a valid UUID format"
+    iso8601?: "this is not a valid iso8601 format"
+    file?: "this is not a file"
+    ext?: "this file doesn't have a %{ext} extension"
+    hex_color?: "this is not a valid hex color"
+    email?: "this is not a valid email"
+    svg?: "this is not a valid svg format"
+    checksum?: "this does not have a valid length"
+    remove_custom_report?: "this is not the expected input"
+    boolean?: "this is not a valid boolean value"
